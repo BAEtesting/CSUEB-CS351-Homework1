@@ -1,1 +1,4 @@
-# CS351-Homwork1
+# Homework #1 Solution
+** John Batesting**
+**NetID: DJ2845**
+
